@@ -1,0 +1,63 @@
+body{
+    background-color: #f3fd00;
+    text-align: center;
+    font-family:sans-serif;
+    background-image: url('../img/colmeia.jpg');
+    background-size: cover;
+    background-position-y: -130px;
+}
+
+.form{
+width: 400px;
+margin: auto;
+padding-top: 40px;
+}
+   
+.card{
+box-shadow: 100px;
+background-color: rgb(250, 234, 7);
+padding: 20px;
+border-radius: 5px;
+
+}
+.card-top{
+text-align: center;
+border-image: center;
+color:#3d3c36
+;
+
+}
+
+.card-group {
+margin-bottom: 10px;
+}
+
+.card-group > label{
+    border-radius: 400;
+    outline: 10;
+    width: 400;
+    display: block;
+}
+
+.card-group > input{
+    border-radius: 5px;
+    outline: 0;
+    width: 100%;
+    height: 30px;
+    padding: 5px;
+}
+
+    
+.card-group > button{
+background-image: linear-gradient(to right, #fdbe00, #f0ed43 ) ;
+width: 100%;
+border-radius: 30px;
+outline: 10;
+width: 200;
+display: block;
+padding: 15px;
+text-align: center;
+}
+
+
+
